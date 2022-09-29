@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Basketball loverrr....
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=collinscodes2005 &theme=radical)
+https://github-readme-stats.vercel.app/api?username=collinscodes2005 &theme=radical
