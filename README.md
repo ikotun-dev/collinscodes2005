@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Basketball loverrr....
 -->
-https://github-readme-stats.vercel.app/api?username=collinscodes2005 &theme=radical
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collinscodes2005&layout=compact)](https://github.com/collinscodes2005/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=collinscodes2005&show_icons=true&theme=dark)
