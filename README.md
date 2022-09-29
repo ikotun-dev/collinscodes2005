@@ -1,6 +1,5 @@
-### Hi there 👋
-I'm Collins 
 
+## Hi, I'm Collins, currently 17 years old student in Software Engineering, on this github I share my small open source projects, have fun browsing it
 <!--
 **collinscodes2005/collinscodes2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Basketball loverrr....
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collinscodes2005&layout=compact)](https://github.com/collinscodes2005/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinscodes2005&layout=compact">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=collinscodes2005&show_icons=true&theme=dark)
 
