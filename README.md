@@ -1,5 +1,5 @@
 
-## Hi, I'm Collins, currently $$ years old student in Software Engineering, on this github I share my small open source projects, have fun browsing it
+#Hi, I build things.
 <!--
 **collinscodes2005/collinscodes2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
