@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 [<img alt="git" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>](https://git-scm.com/)
 
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Derpinou/count.svg" />
 </p>
+ -->
