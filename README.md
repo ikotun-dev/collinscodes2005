@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Basketball loverrr....
 -->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ikotun-dev&show_icons=true&theme=dark">
-
-
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ikotun-dev&show_icons=true&theme=dark">
+ -->
 
 ## :earth_africa: Programming languages:
 
@@ -36,6 +35,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ikotun-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<br></br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikotun-dev&theme=dark&hide_border=false)<br/>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnosam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
