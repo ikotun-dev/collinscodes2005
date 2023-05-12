@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Basketball loverrr....
 -->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikotun-dev&layout=compact">
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ikotun-dev&show_icons=true&theme=dark">
 
